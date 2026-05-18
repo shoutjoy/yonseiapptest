@@ -2,6 +2,8 @@
 
 React + Vite 프로젝트입니다.
 
+![Deploy PPT복구앱 ](https://restoreppt.onrender.com/)
+
 ## 실행 방법
 
 **Windows:** 압축 해제 후 `실행.bat` 더블클릭. CMD가 열리며 npm 확인 → 필요 시 npm install → npm run dev 자동 실행.
