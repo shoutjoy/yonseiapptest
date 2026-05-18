@@ -2,8 +2,10 @@
 
 React + Vite 프로젝트입니다.
 
-[Deploy PPT복구앱](https://restoreppt.onrender.com/)
-https://restoreppt.onrender.com
+## 바로가기 
+[Deploy 깨진글씨  PPT복구앱](https://restoreppt.onrender.com/)
+
+"https://restoreppt.onrender.com"에서 실행하세요 
 
 ## 실행 방법
 
