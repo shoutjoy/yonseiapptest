@@ -2,7 +2,8 @@
 
 React + Vite 프로젝트입니다.
 
-![Deploy PPT복구앱 ](https://restoreppt.onrender.com/)
+[Deploy PPT복구앱](https://restoreppt.onrender.com/)
+https://restoreppt.onrender.com
 
 ## 실행 방법
 
